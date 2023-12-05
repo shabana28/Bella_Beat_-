@@ -25,7 +25,7 @@ Revitalize Bella Beat's marketing with insightful analysis for heightened brand 
        #Correlation matrix_fig_01
        *The correlation visual indicates a positive correlation between total steps and calories burned, and obviously with total distance.
 
-      #Relation between daily steps and calories burned_fig_02
+      #_fig_02
         *indicates a positive correlation between the total daily steps taken and the total calories Fitbit users burn. This correlation suggests that there is a direct relationship between the number of steps taken and the amount of calories burned, where an increase in steps taken is proportional to an increase in calories burned.
 
 #Correlation between sleep time and sedentary time 
