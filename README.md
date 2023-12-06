@@ -1,5 +1,5 @@
 # Project_01_-
-Revitalize Bella Beat's marketing with insightful analysis for heightened brand impact and sustained growth.
+ Uplifting Bella Beat's marketing strategy through analysis
 
 
 #BUSINESS TASK
