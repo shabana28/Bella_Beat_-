@@ -1,4 +1,4 @@
-# Bella_Beat_001
+# Bella_Beat_
  Uplifting Bella Beat's marketing strategy through analysis
 
 
