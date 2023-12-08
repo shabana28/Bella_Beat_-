@@ -1,4 +1,4 @@
-# Project_01_-
+# Bella_Beat_001
  Uplifting Bella Beat's marketing strategy through analysis
 
 
